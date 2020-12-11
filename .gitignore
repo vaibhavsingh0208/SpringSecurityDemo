@@ -1,0 +1,11 @@
+
+*.jar
+demo/.DS_Store
+demo/.mvn/wrapper/maven-wrapper.jar
+demo/.mvn/wrapper/maven-wrapper.properties
+demo/.mvn/wrapper/MavenWrapperDownloader.java
+demo/mvnw
+demo/mvnw.cmd
+demo/pom.xml
+demo/src/.DS_Store
+demo/src/main/.DS_Store
